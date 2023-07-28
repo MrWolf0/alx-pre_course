@@ -1,1 +1,1 @@
-test
+wolf say hi
